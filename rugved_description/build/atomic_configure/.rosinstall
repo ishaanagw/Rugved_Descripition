@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ishaan/catkin_ws/src/rugved_description/build/devel/setup.sh
